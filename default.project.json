@@ -1,0 +1,12 @@
+{
+  "name": "CloudConfig",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "CloudConfig": {
+        "$path": "src"
+      }
+    }
+  }
+}
